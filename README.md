@@ -1,4 +1,4 @@
-# Graphics-in-C-with-Turbo-C
+# Graphics-in-C
 Graphics code using graphics.h header in Turbo C++
 
 ##Tools
