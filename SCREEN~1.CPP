@@ -1,3 +1,12 @@
+/*  
+
+	Simple screen saver
+	
+	
+ KEY:
+	press any key to exit
+
+*/
 
 #include <graphics.h>
 #include <stdlib.h>
