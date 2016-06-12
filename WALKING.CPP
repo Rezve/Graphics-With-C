@@ -1,3 +1,10 @@
+/*
+	Walking Test
+	
+	KEY:
+		press any key to exit
+*/
+
 #include <graphics.h>
 #include <stdlib.h>
 #include <stdio.h>
