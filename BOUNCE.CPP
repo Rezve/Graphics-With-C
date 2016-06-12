@@ -1,3 +1,12 @@
+/*
+	Bouncing ball
+	
+	KEY:
+		w for jump
+		e for exit
+
+*/
+
 #include <graphics.h>
 #include <stdlib.h>
 #include <stdio.h>
