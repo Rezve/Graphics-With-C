@@ -1,3 +1,6 @@
+/*
+	Simple Timer 
+*/
 
 #include <graphics.h>
 #include <stdlib.h>
