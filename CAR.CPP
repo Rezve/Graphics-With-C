@@ -1,3 +1,16 @@
+/*  
+
+	moving car
+	
+	
+ KEY:
+	l for light
+	d for move forward
+	a for backword 
+	e for exit
+
+*/
+
 #include <graphics.h>
 #include <stdlib.h>
 #include <stdio.h>
