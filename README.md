@@ -5,8 +5,8 @@ Graphics code using graphics.h header in Turbo C++
 Turbo c++ (3.2)
 
 ##Important
-Before run this code, you must update "C:\\TURBOC3\\BGI" if the path of BGI folder is not same in your computer.
-In older version it looks like "C:\\TC\\BGI"
+Before run this code, you must update "C:\\\TURBOC3\\\BGI" if the path of BGI folder is not same in your computer.
+In older version it looks like "C:\\\TC\\\BGI"
 
 #scrrenshots
 
