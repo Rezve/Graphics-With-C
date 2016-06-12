@@ -1,3 +1,12 @@
+/*
+	Bikroy.com logo with blinking eye
+	
+	KEY:
+		b for blink eye
+		e for exit
+
+*/
+
 #include <graphics.h>
 #include <stdlib.h>
 #include <stdio.h>
