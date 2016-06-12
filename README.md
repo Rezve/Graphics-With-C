@@ -19,7 +19,7 @@ all scrrenshots
 ##Timer:
 ![Timer](https://raw.githubusercontent.com/Rezve/Graphics-in-C-with-Turbo-C/Screenshots/timer_1.png)
 
-![Timer](https://raw.githubusercontent.com/Rezve/Graphics-in-C-with-Turbo-C/Screenshots/timer_1.png)
+![Timer](https://raw.githubusercontent.com/Rezve/Graphics-in-C-with-Turbo-C/Screenshots/timer_2.png)
 
 
 ##Walking Test:
@@ -30,7 +30,7 @@ all scrrenshots
 ##Bouncing ball:
 ![Bouncing ball](https://raw.githubusercontent.com/Rezve/Graphics-in-C-with-Turbo-C/Screenshots/bounce_1.png)
 
-![Bouncing ball](https://raw.githubusercontent.com/Rezve/Graphics-in-C-with-Turbo-C/Screenshots/bounce_1.png)
+![Bouncing ball](https://raw.githubusercontent.com/Rezve/Graphics-in-C-with-Turbo-C/Screenshots/bounce_2.png)
 
 
 
